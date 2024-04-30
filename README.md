@@ -4,6 +4,7 @@ This project aims to implement state-of-the-art fine-tuning techniques on the Mi
 
 ## Author
 - **Ayman Moumen**
+- 
 Final-year student at Centrale Supélec, specializing in Artificial Intelligence and Data Science.
 
 This project is part of the Deep Learning course at Centrale Supélec.
