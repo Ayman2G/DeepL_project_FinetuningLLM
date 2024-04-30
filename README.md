@@ -2,6 +2,13 @@
 
 This project aims to implement state-of-the-art fine-tuning techniques on the Mistral 7B model for tasks related to Python code problem solving and debugging. The goal is to explore and apply advanced methods to enhance the performance of the Mistral 7B model on specific programming and NLP tasks.
 
+## Author
+- **Ayman Moumen**
+- Final-year student at Centrale Supélec, specializing in Artificial Intelligence and Data Science.
+
+This project is part of the Deep Learning course at Centrale Supélec.
+
+
 ## Description
 
 The Mistral 7B model is an optimized pre-trained generative language model that has demonstrated impressive capabilities across various natural language processing domains even when compared to larger models. However, adapting it to specific tasks such as Python code problem solving requires a specialized fine-tuning process.
@@ -14,7 +21,7 @@ In this project, we will explore the following techniques for fine-tuning the Mi
 
 - **Model Evaluation and Comparison**: Using appropriate metrics to evaluate the fine-tuned model's performance and comparing it with other baseline models.
 
-We used advanced fine-tuning techniques such as PEFT (Prompt Engineering for Fine-Tuning) and LoRA (Learned Rank Aggregation) to tailor the Mistral 7B model for Python code problem-solving tasks.
+We used advanced fine-tuning techniques such as PEFT (Parameter Efficient for Fine-Tuning) and LoRA (Low Rank Adaptation) to tailor the Mistral 7B model for Python code problem-solving tasks.
 
 ## Objectives
 
