@@ -1,10 +1,10 @@
 # Project: Fine-Tuning Mistral 7B Model for Python Code Problem Solving
 
-This project aims to implement state-of-the-art fine-tuning techniques on the Mistral 7B model for tasks related to Python code problem solving and debugging. The goal is to explore and apply advanced methods to enhance the performance of the Mistral 7B model on specific programming and natural language processing tasks.
+This project aims to implement state-of-the-art fine-tuning techniques on the Mistral 7B model for tasks related to Python code problem solving and debugging. The goal is to explore and apply advanced methods to enhance the performance of the Mistral 7B model on specific programming and NLP tasks.
 
 ## Description
 
-The Mistral 7B model is a large pre-trained generative language model that has demonstrated impressive capabilities across various natural language processing domains. However, adapting it to specific tasks such as Python code problem solving requires a specialized fine-tuning process.
+The Mistral 7B model is an optimised pre-trained generative language model that has demonstrated impressive capabilities across various natural language processing domains even when compared to larger models. However, adapting it to specific tasks such as Python code problem solving requires a specialized fine-tuning process.
 
 In this project, we will explore the following techniques for fine-tuning the Mistral 7B model:
 
