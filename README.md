@@ -4,7 +4,7 @@ This project aims to implement state-of-the-art fine-tuning techniques on the Mi
 
 ## Description
 
-The Mistral 7B model is an optimised pre-trained generative language model that has demonstrated impressive capabilities across various natural language processing domains even when compared to larger models. However, adapting it to specific tasks such as Python code problem solving requires a specialized fine-tuning process.
+The Mistral 7B model is an optimized pre-trained generative language model that has demonstrated impressive capabilities across various natural language processing domains even when compared to larger models. However, adapting it to specific tasks such as Python code problem solving requires a specialized fine-tuning process.
 
 In this project, we will explore the following techniques for fine-tuning the Mistral 7B model:
 
@@ -13,6 +13,8 @@ In this project, we will explore the following techniques for fine-tuning the Mi
 - **Hyperparameter Optimization**: Searching and tuning model hyperparameters to maximize performance.
 
 - **Model Evaluation and Comparison**: Using appropriate metrics to evaluate the fine-tuned model's performance and comparing it with other baseline models.
+
+We used advanced fine-tuning techniques such as PEFT (Prompt Engineering for Fine-Tuning) and LoRA (Learned Rank Aggregation) to tailor the Mistral 7B model for Python code problem-solving tasks.
 
 ## Objectives
 
@@ -26,7 +28,7 @@ In this project, we will explore the following techniques for fine-tuning the Mi
 
 - **Fine-Tuning Notebooks**: Contains Jupyter notebooks describing the process of fine-tuning the Mistral 7B model on Python code problem-solving tasks.
 
-- **Training and Evaluation Data**: Datasets used for training, validation, and evaluation of the fine-tuned model.
+- **Training and Evaluation Data**: Datasets used for training, validation, and evaluation of the fine-tuned model. The datasets are available in the Hugging Face repository [here](https://huggingface.co/datasets/ayman56/stackoverflow_qa_python_Preprocessed).
 
 - **Results and Analysis**: Analysis of results obtained after fine-tuning and comparison with other approaches.
 
